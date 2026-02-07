@@ -6,3 +6,4 @@ store-assets/
 screenshots/
 *.html
 !popup.html
+docs/
