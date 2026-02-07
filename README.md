@@ -37,11 +37,11 @@ Claude Lite intercepts chat loading and keeps only the last N messages (configur
 ## 📦 Installation
 
 ### From Chrome Web Store
-[Install from Chrome Web Store](https://chrome.google.com/webstore)
+Coming soon...
 
 ### Manual Installation (Latest Version)
 1. Download or clone this repository
-2. Open Chrome - `chrome://extensions/`
+2. Open Chrome → `chrome://extensions/`
 3. Enable "Developer mode" (top right)
 4. Click "Load unpacked"
 5. Select the extension folder
@@ -54,7 +54,7 @@ Claude Lite intercepts chat loading and keeps only the last N messages (configur
 
 ## 👤 Author
 
-**N33verm0re** - [Telegram](https://t.me/N33verm0re)
+**N33verm0re** — [Telegram](https://t.me/N33verm0re)
 
 ## 📄 License
 
