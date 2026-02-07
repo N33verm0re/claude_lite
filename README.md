@@ -2,6 +2,8 @@
 
 A Chrome extension that fixes lag issues in long Claude.ai conversations by reducing DOM elements and tracking your usage limits.
 
+![Hero](docs/screenshots/1-hero.png)
+
 ## 🎯 The Problem
 
 When you have 1000-2000+ messages in a Claude.ai chat, the browser starts lagging badly. The tab becomes unresponsive, sometimes crashes.
@@ -13,6 +15,8 @@ When you have 1000-2000+ messages in a Claude.ai chat, the browser starts laggin
 Claude Lite intercepts chat loading and keeps only the last N messages (configurable from 2 to 500). Old messages aren't deleted from the server — they just don't load into the browser.
 
 **Result:** JS Heap drops from several gigabytes to ~200-300 MB. Everything runs smooth again.
+
+![Before/After](docs/screenshots/3-before-after.png)
 
 ## 🚀 Features
 
@@ -27,6 +31,8 @@ Claude Lite intercepts chat loading and keeps only the last N messages (configur
 - Weekly limit usage
 - Time until reset
 - Color-coded progress bars
+
+![Features](docs/screenshots/4-features.png)
 
 ### Interface
 - Floating draggable indicator
@@ -45,6 +51,12 @@ Coming soon...
 3. Enable "Developer mode" (top right)
 4. Click "Load unpacked"
 5. Select the extension folder
+
+## 🌍 Languages
+
+![Languages](docs/screenshots/5-languages.png)
+
+English, Español, Deutsch, Français, Italiano, Português, Русский, Українська, 中文
 
 ## 🔒 Privacy
 
