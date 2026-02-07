@@ -1,0 +1,22 @@
+{
+  "extName": {"message": "Claude Lite"},
+  "extDescription": {"message": "Reduziert die Speichernutzung von Claude.ai durch Begrenzung des Chat-Verlaufs. Verhindert Browser-Verlangsamung bei langen Gesprächen."},
+  "subtitle": {"message": "Chat-Optimierer"},
+  "keepMessages": {"message": "Nachrichten behalten"},
+  "autoClean": {"message": "Auto-Reinigung"},
+  "removed": {"message": "Entfernt"},
+  "kept": {"message": "Behalten"},
+  "pauseTab": {"message": "Auf diesem Tab pausieren"},
+  "resumeTab": {"message": "Auf diesem Tab fortsetzen"},
+  "cleanNow": {"message": "Jetzt reinigen"},
+  "cleaned": {"message": "Gereinigt!"},
+  "openClaude": {"message": "Öffne claude.ai"},
+  "about": {"message": "Info"},
+  "aboutText": {"message": "Reduziert die Speichernutzung von Claude.ai durch Begrenzung des Chat-Verlaufs. Verhindert Browser-Verlangsamung bei langen Gesprächen."},
+  "version": {"message": "Version"},
+  "tipKeepMessages": {"message": "Anzahl der neuesten Nachrichten, die sichtbar bleiben. Ältere Nachrichten werden entfernt, um Speicher zu sparen."},
+  "tipAutoClean": {"message": "Alte Nachrichten automatisch entfernen, wenn die Seite geladen wird und neue Nachrichten eintreffen."},
+  "tipRam": {"message": "Aktuelle JavaScript-Speichernutzung. Hohe Werte können Ihren Browser verlangsamen."},
+  "tipCleanNow": {"message": "Alte Nachrichten jetzt manuell entfernen."},
+  "tipPause": {"message": "Reinigung auf diesem Tab vorübergehend deaktivieren, um den vollständigen Verlauf anzuzeigen."}
+}

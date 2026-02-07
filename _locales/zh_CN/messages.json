@@ -1,0 +1,22 @@
+{
+  "extName": {"message": "Claude Lite"},
+  "extDescription": {"message": "通过限制聊天记录来减少Claude.ai的内存使用。防止长对话时浏览器变慢。"},
+  "subtitle": {"message": "聊天优化器"},
+  "keepMessages": {"message": "保留消息数"},
+  "autoClean": {"message": "自动清理"},
+  "removed": {"message": "已删除"},
+  "kept": {"message": "已保留"},
+  "pauseTab": {"message": "在此标签页暂停"},
+  "resumeTab": {"message": "在此标签页继续"},
+  "cleanNow": {"message": "立即清理"},
+  "cleaned": {"message": "已清理!"},
+  "openClaude": {"message": "打开 claude.ai"},
+  "about": {"message": "关于"},
+  "aboutText": {"message": "通过限制聊天记录来减少Claude.ai的内存使用。防止长对话时浏览器变慢。"},
+  "version": {"message": "版本"},
+  "tipKeepMessages": {"message": "保留的最近消息数量。旧消息将被删除以节省内存。"},
+  "tipAutoClean": {"message": "在页面加载和新消息到达时自动删除旧消息。"},
+  "tipRam": {"message": "当前JavaScript内存使用量。过高可能会导致浏览器变慢。"},
+  "tipCleanNow": {"message": "立即手动删除旧消息。"},
+  "tipPause": {"message": "暂时禁用此标签页的清理功能，以查看完整的对话历史。"}
+}
