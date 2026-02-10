@@ -43,7 +43,7 @@ Claude Lite intercepts chat loading and keeps only the last N messages (configur
 ## 📦 Installation
 
 ### From Chrome Web Store
-Coming soon...
+https://chromewebstore.google.com/detail/claude-lite/jjnpgbknaolhhallboicaeeimhdnkdhd
 
 ### Manual Installation (Latest Version)
 1. Download or clone this repository
