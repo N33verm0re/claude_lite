@@ -1,0 +1,4 @@
+{
+  "extName": {"message": "Claude Lite"},
+  "extDescription": {"message": "Giảm mức sử dụng bộ nhớ của Claude.ai bằng cách giới hạn lịch sử trò chuyện. Ngăn trình duyệt chậm lại trong các cuộc hội thoại dài."}
+}

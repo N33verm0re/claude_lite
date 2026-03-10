@@ -1,0 +1,22 @@
+{
+  "extName": {"message": "Claude Lite"},
+  "extDescription": {"message": "Reduz o uso de memória do Claude.ai limitando o histórico do chat. Evita lentidão do navegador em conversas longas."},
+  "subtitle": {"message": "Otimizador de chat"},
+  "keepMessages": {"message": "Manter mensagens"},
+  "autoClean": {"message": "Auto-limpeza"},
+  "removed": {"message": "Removidos"},
+  "kept": {"message": "Mantidos"},
+  "pauseTab": {"message": "Pausar nesta aba"},
+  "resumeTab": {"message": "Retomar nesta aba"},
+  "cleanNow": {"message": "Limpar agora"},
+  "cleaned": {"message": "Limpo!"},
+  "openClaude": {"message": "Abrir claude.ai"},
+  "about": {"message": "Sobre"},
+  "aboutText": {"message": "Reduz o uso de memória do Claude.ai limitando o histórico do chat. Evita lentidão do navegador em conversas longas."},
+  "version": {"message": "Versão"},
+  "tipKeepMessages": {"message": "Número de mensagens recentes a manter visíveis. Mensagens antigas serão removidas para economizar memória."},
+  "tipAutoClean": {"message": "Remover automaticamente mensagens antigas quando a página carrega e quando novas mensagens chegam."},
+  "tipRam": {"message": "Uso atual de memória JavaScript. Valores altos podem deixar seu navegador lento."},
+  "tipCleanNow": {"message": "Remover manualmente mensagens antigas agora."},
+  "tipPause": {"message": "Desativar temporariamente a limpeza nesta aba para ver o histórico completo."}
+}

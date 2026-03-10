@@ -1,0 +1,4 @@
+{
+  "extName": {"message": "Claude Lite"},
+  "extDescription": {"message": "Vermindert het geheugengebruik van Claude.ai door de chatgeschiedenis te beperken. Voorkomt browservertragingen tijdens lange gesprekken."}
+}

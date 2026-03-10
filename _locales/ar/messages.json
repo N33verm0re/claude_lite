@@ -1,0 +1,4 @@
+{
+  "extName": {"message": "Claude Lite"},
+  "extDescription": {"message": "يقلل استخدام ذاكرة Claude.ai عن طريق تحديد سجل المحادثات. يمنع تباطؤ المتصفح أثناء المحادثات الطويلة."}
+}

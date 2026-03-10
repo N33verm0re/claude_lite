@@ -1,0 +1,4 @@
+{
+  "extName": {"message": "Claude Lite"},
+  "extDescription": {"message": "Csökkenti a Claude.ai memóriahasználatát a csevegési előzmények korlátozásával. Megakadályozza a böngésző lassulását hosszú beszélgetések során."}
+}
