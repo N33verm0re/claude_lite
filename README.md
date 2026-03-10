@@ -38,7 +38,7 @@ Claude Lite intercepts chat loading and keeps only the last N messages (configur
 - Floating draggable indicator
 - 3 display modes: Full / Limits Only / Optimizer Only
 - Dark theme matching Claude's interface
-- 9 languages: EN, ES, DE, FR, IT, PT, RU, UK, ZH
+- 28 languages with auto-detection
 
 ## 📦 Installation
 
@@ -56,7 +56,9 @@ https://chromewebstore.google.com/detail/claude-lite/jjnpgbknaolhhallboicaeeimhd
 
 ![Languages](docs/screenshots/5-languages.png)
 
-English, Español, Deutsch, Français, Italiano, Português, Русский, Українська, 中文
+English, Español, Русский, Українська, Deutsch, Français, Italiano, Português, 中文, 日本語, 한국어, Türkçe, Polski, Nederlands, العربية, हिन्दी, Tiếng Việt, ไทย, Bahasa Indonesia, Svenska, Čeština, Română, Magyar, Ελληνικά, עברית, Dansk, Suomi, Norsk
+
+Language is auto-detected from your browser settings on first install.
 
 ## 🔒 Privacy
 
